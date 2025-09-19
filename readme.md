@@ -1,22 +1,16 @@
-Title / Short description:
-✅ “Get the Latest SpaceX Rocket Launch Info – Fast & Interactive!”
+# 🚀 SpaceX Launch Info App
 
-Full description:
-Stay up-to-date with the latest SpaceX launches with this sleek and interactive web app!
+Stay up-to-date with the latest SpaceX launches with this interactive web app!
 
-When you click the button, you instantly get:
-✅ Mission Name – see the official name of the latest launch
-✅ Launch Date & Time – automatically converted to your local timezone
-✅ YouTube Webcast Link – watch the launch if available
+## Features
+- ✅ Mission Name – see the official name of the latest launch
+- ✅ Launch Date & Time – automatically converted to your local timezone
+- ✅ YouTube Webcast Link – watch the launch if available
+- ✅ Built with modern JavaScript (async/await + fetch API)
+- ✅ Responsive design – works on desktop and mobile
+- ✅ Clean, user-friendly interface
 
-Why choose this app?
-✅ Built with modern JavaScript (async/await + fetch API)
-✅ Dynamic & responsive design – works perfectly on desktop and mobile
-✅ User-friendly interface – clean, simple, and interactive
-✅ Ready for learning & portfolio use – perfect example of API integration
-
-This mini project is ideal for:
-✅ Students learning JS & API integration
-✅ Freelancers wanting a quick, functional app
-✅ Anyone interested in space & rocket launches
-
+## How to use
+1. Open `index.html` in your browser.
+2. Click the "Get Launch Info" button.
+3. See the latest SpaceX launch details instantly!
