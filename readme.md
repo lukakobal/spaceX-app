@@ -19,3 +19,4 @@ This mini project is ideal for:
 ✅ Students learning JS & API integration
 ✅ Freelancers wanting a quick, functional app
 ✅ Anyone interested in space & rocket launches
+
